@@ -115,6 +115,10 @@ class RegisterDoneView(TemplateView):
     template_name = 'main/register_done.html'
 
 
+def by_rubric(request, pk):
+    pass
+
+
 
 
 
